@@ -1,1 +1,1 @@
-# multi-env-lambda-s3-automation
+# multi-env-lambda-s3-integration
